@@ -1,8 +1,8 @@
 
-function fn(a, b){
-
+function fn(a:number, b:number){
+  return a + b
 }
 
-fn()
+fn(2, 3)
 
 export default {}
