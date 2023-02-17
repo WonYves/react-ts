@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './ts-hook/1.todolist';
 import reportWebVitals from './reportWebVitals';
-import './ts基本类型/1.数组'
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );

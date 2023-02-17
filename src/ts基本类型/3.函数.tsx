@@ -6,4 +6,4 @@ let mytest:number = test(1,2)
 console.log(mytest);
 
 
-export default {}
+export default {} 
