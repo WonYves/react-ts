@@ -1,8 +1,9 @@
-
-function fn(a:number, b:number){
+const test = (a:number, b:number):number => {
   return a + b
 }
 
-fn(2, 3)
+let mytest:number = test(1,2)
+console.log(mytest);
+
 
 export default {}
