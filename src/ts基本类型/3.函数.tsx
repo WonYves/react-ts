@@ -1,4 +1,4 @@
-const test = (a:number, b:number):number => {
+const test = (a:number, b:number, c?:number):number => {
   return a + b
 }
 
